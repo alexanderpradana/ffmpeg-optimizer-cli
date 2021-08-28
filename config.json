@@ -1,11 +1,11 @@
 {
-    source-folder:"/mnt/nas/draft/source"
-    dest-folder:"/mnt/nas/draft/dest"
-    compression-video:"libxh265"
-    compression-audio:"aac"
-    audio-size:"128k"
-    crf-quality:"28"
-    output-extension:"mp4"
-    preset:"veryslow"
-    moovatom:"-movflags faststart"
+    "source-folder":"/mnt/nas/draft/source",
+    "dest-folder":"/mnt/nas/draft/dest",
+    "compression-video":"libxh265",
+    "compression-audio":"aac",
+    "audio-size":"128k",
+    "crf-quality":"28",
+    "output-extension":"mp4",
+    "preset":"veryslow",
+    "moovatom":"movflags faststart"
 }
